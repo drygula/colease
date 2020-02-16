@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <title>Title</title>
+  <!--build:css css/style.min.css-->
+  <link rel="stylesheet" href="css/style.min.css">
+  <!--endbuild-->
+</head>
+
+<body>
+<div class="page__wrapper">
+
+  <svg xmlns="http://www.w3.org/2000/svg" style="display:none;"><symbol viewBox="0 0 12 12" id="ico-cross_gray" xmlns="http://www.w3.org/2000/svg">
+    <path d="M9.844 9.834L1.349 1.358m8.486-.008L1.357 9.843" fill="none" stroke="#D8D8D8" stroke-width="2"
+          stroke-linecap="round"/>
+  </symbol>
+    <symbol viewBox="0 0 11 11" id="ico-edit_white" xmlns="http://www.w3.org/2000/svg">
+      <path d="M10.414 2.072l-.976.976-1.986-1.986-.753.753 1.986 1.986-4.871 4.87-1.986-1.985-.753.754L3.06 9.425l-.485.486-.01-.01a.384.384 0 01-.244.177l-1.852.413a.385.385 0 01-.46-.46L.422 8.18a.386.386 0 01.177-.246l-.01-.009L8.428.086a.295.295 0 01.416 0l1.57 1.57a.295.295 0 010 .416z"
+            fill="#FFF"/>
+    </symbol>
+    <symbol viewBox="0 0 14 14" id="ico-plus_ocean" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6.993 1l.014 12M1 7.005l12-.01" fill="none" stroke="#16A8AA" stroke-width="2" stroke-linecap="round"/>
+    </symbol>
+    <symbol viewBox="0 0 14 14" id="ico-plus_white" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6.993 1l.014 12M1 7.005l12-.01" fill="none" stroke="#FFF" stroke-width="2" stroke-linecap="round"/>
+    </symbol>
+    <symbol viewBox="0 0 13 13" id="ico-print_white" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4.063 10.562h4.875M4.063 8.937h4.875m-5.958.001H1.353A1.087 1.087 0 01.271 7.854v-3.25a1.087 1.087 0 011.083-1.083h10.292a1.087 1.087 0 011.083 1.083v3.25a1.087 1.087 0 01-1.083 1.084H10.02m-7.04-6.5V.27h5.192c.143 0 .281.057.383.159l1.307 1.307c.102.102.159.24.159.383v.318"/>
+        <path d="M10.02 12.188a.54.54 0 01-.54.541H3.52a.542.542 0 01-.54-.541V7.311h7.04v4.875zM1.896 5.687a.542.542 0 100-1.083.542.542 0 000 1.083zM7.854.27v2.167h2.167"/>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 15 11" id="ico-remove_white" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6 3.5H2a1 1 0 01-1-1v-1a1 1 0 011-1h11a1 1 0 011 1v1a1 1 0 01-1 1H9m0 0h3.5l-.434 6.071a1 1 0 01-1 .929H3.931a1 1 0 01-1-.929L2.5 3.5H9 6M6 4v6.5m3 0V4"
+            fill="none" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol viewBox="0 0 29 29" id="nav-agent" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" stroke="#53C7CD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21.75 15.104a7.25 7.25 0 11-14.5 0v-2.416a7.25 7.25 0 0114.5 0v2.416z"/>
+        <path d="M11.48 14.802a.302.302 0 110 .604.302.302 0 010-.604m6.04 0a.302.302 0 110 .604.302.302 0 010-.604m-1.311 3.219a2.417 2.417 0 01-3.418 0m8.959-4.729s-4.833 0-7.25-3.625c-2.417 3.625-7.25 3.625-7.25 3.625M.604 7.854V4.23A3.625 3.625 0 014.23.604h3.625m20.541 7.25V4.23A3.625 3.625 0 0024.77.604h-3.625M.604 21.146v3.625a3.625 3.625 0 003.625 3.625h3.625m20.542-7.25v3.625a3.625 3.625 0 01-3.625 3.625h-3.625"/>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 29 26" id="nav-dashboard" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M28.396 22.354a2.417 2.417 0 01-2.417 2.417H3.021a2.417 2.417 0 01-2.417-2.417V3.021A2.417 2.417 0 013.021.604h22.958a2.417 2.417 0 012.417 2.417v19.333zM.604 6.646h27.792M4.833 19.979H7.25m7.25-9.669v2.416m-6.837.414l1.708 1.708m14.799 5.128h-2.416M5.434.604v6.042M10.267.604v6.042"/>
+        <path d="M20.3 14.418c.352-.484.221-.626-.292-.323L14.62 17.28c-.573.38-1 .944-1.208 1.599l-.121.52a.854.854 0 00.81 1.109l.595.032a2.24 2.24 0 001.722-.813l3.881-5.308z"/>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 29 29" id="nav-reminders" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M23.163 7.055a2.08 2.08 0 10-4.159 0v1.906a.52.52 0 01-.52.52h5.198a.52.52 0 01-.52-.52V7.055zm-1.589 3.255c-.074.3-.27.5-.49.5-.221 0-.417-.2-.49-.5m.316-6.027v.694"/>
+        <path d="M21.065.604a7.194 7.194 0 00-7.17 7.331 7.183 7.183 0 00.945 3.858l-2.152 4.52 4.52-2.154A7.327 7.327 0 1021.065.604h0zm-1.127 16.918v10.875M.604 28.396V6.646a2.417 2.417 0 012.417-2.417h9.062m-.603 4.835H.603M9.667 22.96a2.719 2.719 0 100-5.438 2.719 2.719 0 000 5.438zm5.437 5.436a5.611 5.611 0 00-10.875 0M8.458 6.647h3.021"/>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 29 28" id="nav-report" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8.458 13.292a4.23 4.23 0 100-8.459 4.23 4.23 0 000 8.459z"/>
+        <path d="M8.458 4.833v4.23h4.23M10.875 25.98a8.433 8.433 0 001.813-4.834m5.437 4.834a8.433 8.433 0 01-1.813-4.834M9.061 25.98h10.875M.604 17.52h27.792"/>
+        <path d="M1.603.604h25.794q.098 0 .195.02.096.019.187.056.091.038.173.093.082.054.151.124.07.07.124.151.055.082.093.173.037.09.057.187.019.097.019.195v18.544q0 .098-.02.195-.019.096-.056.187-.038.091-.093.173-.054.082-.124.151-.07.07-.151.124-.082.055-.173.093-.09.037-.187.057-.097.019-.195.019H1.603q-.098 0-.195-.02-.096-.019-.187-.056-.091-.038-.173-.093-.082-.054-.151-.124-.07-.07-.124-.151-.055-.082-.093-.173-.037-.09-.057-.187-.019-.097-.019-.195V1.603q0-.098.02-.195.019-.096.056-.187.038-.091.093-.173Q.827.966.897.897q.07-.07.151-.124.082-.055.173-.093.09-.037.187-.057.097-.019.195-.019h0z"/>
+        <path d="M16.313 7.25l1.812-2.417 3.625 3.021 3.02-3.625m-1.207 9.667v-1.813m-2.417 1.813v-2.417m-2.416 2.417V10.27m-2.417 3.626v-1.813"/>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 29 25" id="nav-settings" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2.603.605h23.794q.098 0 .196.01.097.01.194.029.096.019.19.047.094.029.185.067.09.037.177.083.087.047.168.101.082.055.158.117.076.062.145.132.07.07.132.145.062.076.117.158.054.081.1.168.047.087.085.177.037.091.066.185.028.094.047.19.02.097.03.194.009.098.009.196v18.96q0 .099-.01.197-.01.097-.029.194-.019.096-.047.19-.029.094-.066.185-.038.09-.084.177-.047.087-.101.168-.055.082-.117.158-.062.076-.132.145-.07.07-.145.132-.076.062-.158.117-.081.054-.168.1-.086.047-.177.085-.09.037-.185.066-.094.028-.19.047-.097.02-.194.03-.098.009-.196.009H2.603q-.098 0-.196-.01t-.194-.029q-.096-.019-.19-.047-.094-.029-.185-.066-.09-.038-.177-.084-.087-.047-.168-.101-.082-.055-.158-.117-.076-.062-.145-.132-.07-.07-.132-.145-.062-.076-.117-.158-.055-.081-.1-.168-.047-.087-.085-.177-.037-.091-.066-.185-.028-.094-.047-.19-.02-.097-.03-.194-.009-.098-.009-.196V2.605q0-.099.01-.197.01-.097.029-.194.019-.096.047-.19.029-.094.066-.185.038-.09.084-.177.046-.087.101-.168.055-.082.117-.158.062-.076.132-.145.07-.07.145-.132.076-.062.158-.117.081-.054.168-.1.086-.047.177-.084.09-.038.185-.067.094-.028.19-.047.096-.02.194-.029.098-.01.196-.01h0zM.604 6.647h27.792"/>
+        <path d="M4.258 3.324a.302.302 0 110 .604.302.302 0 010-.604m3.625 0a.302.302 0 110 .604.302.302 0 010-.604M14.5 15.71a1.208 1.208 0 100-2.417 1.208 1.208 0 000 2.417z"/>
+        <path d="M15.526 9.827l.356 1.17a.801.801 0 00.946.549l1.186-.276a1.079 1.079 0 011.027 1.787l-.83.896a.808.808 0 000 1.097l.83.895a1.08 1.08 0 01-1.027 1.787l-1.186-.275a.802.802 0 00-.946.548l-.356 1.17a1.07 1.07 0 01-2.054 0l-.357-1.17a.802.802 0 00-.946-.548l-1.185.275a1.079 1.079 0 01-1.027-1.787l.83-.895a.808.808 0 000-1.097l-.83-.896a1.079 1.079 0 011.027-1.787l1.185.276a.801.801 0 00.946-.549l.357-1.17a1.07 1.07 0 012.054 0z"/>
+      </g>
+    </symbol>
+    <symbol viewBox="0 0 26 29" id="nav-sites" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M13.896 10.875a6.646 6.646 0 10-8.458 6.388v1.466l-1.209 1.208 1.209 1.209v1.208l-1.209 1.208 1.209 1.209v1.812l1.812 1.813 1.813-1.813v-9.32a6.646 6.646 0 004.833-6.388z"/>
+        <path d="M7.25 11.477a2.417 2.417 0 100-4.834 2.417 2.417 0 000 4.834zm1.813 6.663a6.654 6.654 0 006.555.04l1.299 1.153v1.813h1.812l.604.634v1.783h1.592l1.283 1.208h2.563v-2.563l-6.59-6.59a6.646 6.646 0 00-6.646-9.828"/>
+        <path d="M7.25 8.458V3.021a2.417 2.417 0 114.833 0v2.722"/>
+      </g>
+    </symbol>
+  </svg>
+  
+  <header class="header">
+    <div class="header__logoWrap">
+      <img src="images/logo.svg" alt="logo" class="header__logo" width="134" height="32">
+    </div>
+    <nav class="header__nav">
+      <a href="#" class="header__navLink">
+        <svg class="header__navIco header__navIco_dashboard">
+          <use xlink:href="#nav-dashboard"></use>
+        </svg>
+        <span class="header__navTitle">Dashboard</span>
+      </a>
+      <a href="#" class="header__navLink">
+        <svg class="header__navIco header__navIco_sites">
+          <use xlink:href="#nav-sites"></use>
+        </svg>
+        <span class="header__navTitle">Sites & Leases</span>
+      </a>
+      <a href="#" class="header__navLink">
+        <svg class="header__navIco header__navIco_reminders">
+          <use xlink:href="#nav-reminders"></use>
+        </svg>
+        <span class="header__navTitle">Reminders</span>
+      </a>
+      <a href="#" class="header__navLink">
+        <svg class="header__navIco header__navIco_report">
+          <use xlink:href="#nav-report"></use>
+        </svg>
+        <span class="header__navTitle">Report</span>
+      </a>
+      <a href="#" class="header__navLink">
+        <svg class="header__navIco header__navIco_agent">
+          <use xlink:href="#nav-agent"></use>
+        </svg>
+        <span class="header__navTitle">Agent</span>
+      </a>
+      <a href="#" class="header__navLink">
+        <svg class="header__navIco header__navIco_settings">
+          <use xlink:href="#nav-settings"></use>
+        </svg>
+        <span class="header__navTitle">Settings</span>
+      </a>
+    </nav>
+  </header>
+
+  <section class="page__content">
+    <div class="container">
+
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      FOOTER
+    </div>
+  </footer>
+</div>
+
+<script src="js/app.min.js"></script>
+<script src="js/common.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="15px" height="11px" viewBox="0 0 15 11" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="gift-box-1" transform="translate(0.5 0.5)">
+    <path d="M5 3L1 3C0.447715 3 0 2.55228 0 2L0 1C0 0.447715 0.447715 0 1 0L12 0C12.5523 0 13 0.447715 13 1L13 2C13 2.55228 12.5523 3 12 3L8 3" transform="translate(0.5 0)" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M6.5 0L10 0L9.566 6.071C9.52868 6.59538 9.09171 7.00132 8.566 7L1.431 7C0.905295 7.00132 0.468324 6.59538 0.431 6.071L0 0L6.5 -3.24207e-06L3.5 0" transform="translate(2 3.000003)" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M1 0.5L1 7" transform="translate(4.5 3)" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M1 7L1 0.5" transform="translate(7.5 3)" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

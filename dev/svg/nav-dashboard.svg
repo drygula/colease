@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="29px" height="26px" viewBox="0 0 29 26" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="browser-sml">
+    <g id="browser-gauge-1">
+      <path d="M27.7917 21.75C27.7917 23.0847 26.7097 24.1667 25.375 24.1667L2.41667 24.1667C1.08198 24.1667 1.34152e-16 23.0847 0 21.75L0 2.41667C-1.34152e-16 1.08198 1.08198 2.68304e-16 2.41667 0L25.375 0C26.7097 0 27.7917 1.08198 27.7917 2.41667L27.7917 21.75Z" transform="translate(0.6041667 0.6041667)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L27.7917 0" transform="translate(0.6041667 6.645833)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L2.41667 0" transform="translate(4.833333 19.97858)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L0 2.41546" transform="translate(14.5 10.31071)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L1.70738 1.70738" transform="translate(7.66325 13.14063)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M2.41546 0L0 0" transform="translate(21.75363 19.97617)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L0 6.04167" transform="translate(5.433876 0.6041667)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L0 6.04167" transform="translate(10.26721 0.6041667)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M7.0469 0.48176C7.39852 -0.00157372 7.26802 -0.144157 6.75448 0.159135L1.36773 3.34309C0.794794 3.72296 0.368552 4.28688 0.1594 4.94172L0.0385668 5.46251C-0.0418443 5.721 0.00501166 6.00229 0.164868 6.22076C0.324724 6.43922 0.578661 6.56899 0.849358 6.57055L1.44386 6.60318C2.11019 6.60168 2.74128 6.30363 3.16573 5.78997L7.0469 0.48176Z" transform="translate(13.2531 13.93607)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

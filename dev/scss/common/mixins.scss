@@ -1,0 +1,21 @@
+@mixin tn($property: all, $duration: .2s, $ease: linear){
+  -webkit-transition: $property $duration $ease;
+  -moz-transition: $property $duration $ease;
+  -o-transition: $property $duration $ease;
+  transition: $property $duration $ease;
+}
+
+@mixin placeholder-color($color: #4d5259){
+  &::-webkit-input-placeholder {
+    color: $color;
+  }
+  &::-moz-placeholder {
+    color: $color;
+  }
+  &:-moz-placeholder {
+    color: $color;
+  }
+  &:-ms-input-placeholder {
+    color: $color;
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="26px" height="29px" viewBox="0 0 26 29" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Keys---sml-White">
+    <g id="login-keys">
+      <path d="M13.2926 6.65161C13.2954 3.21728 10.681 0.346465 7.26139 0.0288268C3.84177 -0.288811 0.743378 2.05136 0.113588 5.42746C-0.516202 8.80355 1.53008 12.1034 4.83422 13.0401L4.83422 14.5058L3.62589 15.7141L4.83422 16.9224L4.83422 18.1308L3.62589 19.3391L4.83422 20.5474L4.83422 22.3599L6.64672 24.1724L8.45922 22.3599L8.45922 13.0401C11.3169 12.23 13.2901 9.62194 13.2926 6.65161Z" transform="translate(0.6032811 4.223386)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M2.41667 4.83333C3.75135 4.83333 4.83333 3.75135 4.83333 2.41667C4.83333 1.08198 3.75135 0 2.41667 0C1.08198 0 0 1.08198 0 2.41667C0 3.75135 1.08198 4.83333 2.41667 4.83333Z" transform="translate(4.833333 6.643417)" id="Oval" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 12.4039C2.02651 13.5672 4.5147 13.5823 6.55521 12.4437L7.85417 13.5965L7.85417 15.409L9.66667 15.409L10.2708 16.0434L10.2708 17.8257L11.8622 17.8257L13.1455 19.034L15.7083 19.034L15.7083 16.4711L9.11808 9.88087C10.3385 7.69066 10.2224 5.00001 8.81787 2.92306C7.41332 0.846105 4.95941 -0.26358 2.47225 0.0534972" transform="translate(9.0625 5.736836)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 7.85417L0 2.41667C0 1.08198 1.08198 2.68304e-16 2.41667 0C3.75136 -2.68304e-16 4.83333 1.08198 4.83333 2.41667L4.83333 5.13904" transform="translate(7.25 0.6041667)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

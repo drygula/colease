@@ -1,0 +1,28 @@
+.page{
+  &__wrapper{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    overflow: hidden;
+  }
+
+  &__container{
+    display: flex;
+  }
+  &__main{
+    width: calc(100% - 325px);
+  }
+  &__side{
+    width: 325px;
+  }
+}
+
+.container{
+  width: $contentWidth;
+  padding-left: $contentPadding;
+  padding-right: $contentPadding;
+  margin-left: auto;
+  margin-right: auto;
+}

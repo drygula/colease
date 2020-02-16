@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="export">
+    <g id="print-text">
+      <path d="M0 0L4.875 0" transform="translate(4.0625 10.56196)" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L4.875 0" transform="translate(4.0625 8.936958)" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M2.70833 5.41667L1.08333 5.41667C0.485766 5.41488 0.00178468 4.9309 0 4.33333L0 1.08333C0.00178468 0.485766 0.485766 0.00178468 1.08333 0L11.375 0C11.9726 0.00178468 12.4565 0.485766 12.4583 1.08333L12.4583 4.33333C12.4565 4.9309 11.9726 5.41488 11.375 5.41667L9.75 5.41667" transform="translate(0.2708333 3.520833)" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 2.16667L0 0L5.19242 0C5.33606 3.06786e-05 5.47382 0.0571191 5.57538 0.158708L6.88296 1.46629C6.98455 1.56785 7.04164 1.7056 7.04167 1.84925L7.04167 2.16667" transform="translate(2.979167 0.2708333)" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M7.04167 4.875C7.04167 5.17415 6.79915 5.41667 6.5 5.41667L0.541667 5.41667C0.242512 5.41667 0 5.17415 0 4.875L0 0L7.04167 0L7.04167 4.875Z" transform="translate(2.979167 7.3125)" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.541667 1.08333C0.840821 1.08333 1.08333 0.840821 1.08333 0.541667C1.08333 0.242512 0.840821 0 0.541667 0C0.242512 0 0 0.242512 0 0.541667C0 0.840821 0.242512 1.08333 0.541667 1.08333Z" transform="translate(1.354167 4.603625)" id="Oval" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L0 2.16667L2.16667 2.16667" transform="translate(7.854167 0.2702917)" id="Shape" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="29px" height="28px" viewBox="0 0 29 28" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Pie-line-graph---sml">
+    <g id="pie-line-graph-desktop">
+      <path d="M4.22917 8.45833C6.56487 8.45833 8.45833 6.56487 8.45833 4.22917C8.45833 1.89346 6.56487 0 4.22917 0C1.89346 0 0 1.89346 0 4.22917C0 6.56487 1.89346 8.45833 4.22917 8.45833Z" transform="translate(4.229167 4.833333)" id="Oval" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L0 4.22917L4.22917 4.22917" transform="translate(8.458334 4.833333)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 4.83333C1.09453 3.45129 1.72841 1.76096 1.8125 0" transform="translate(10.875 21.14583)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M1.8125 4.83333C0.717965 3.45129 0.084093 1.76096 0 0" transform="translate(16.3125 21.14583)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L10.875 0" transform="translate(9.061292 25.97916)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 0L27.7917 0" transform="translate(0.6041667 17.52083)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.999 0L26.7927 0Q26.8911 0 26.9876 0.0191955Q27.0841 0.038391 27.175 0.0760443Q27.2659 0.113698 27.3477 0.168362Q27.4295 0.223026 27.4991 0.2926Q27.5686 0.362175 27.6233 0.443985Q27.678 0.525796 27.7156 0.616699Q27.7533 0.707602 27.7725 0.804105Q27.7917 0.900607 27.7917 0.999L27.7917 19.5427Q27.7917 19.6411 27.7725 19.7376Q27.7533 19.8341 27.7156 19.925Q27.678 20.0159 27.6233 20.0977Q27.5686 20.1795 27.4991 20.2491Q27.4295 20.3186 27.3477 20.3733Q27.2659 20.428 27.175 20.4656Q27.0841 20.5033 26.9876 20.5225Q26.8911 20.5417 26.7927 20.5417L0.999 20.5417Q0.900607 20.5417 0.804105 20.5225Q0.707602 20.5033 0.616699 20.4656Q0.525796 20.428 0.443985 20.3733Q0.362175 20.3186 0.2926 20.2491Q0.223026 20.1795 0.168362 20.0977Q0.113698 20.0159 0.0760443 19.925Q0.038391 19.8341 0.0191955 19.7376Q0 19.6411 0 19.5427L0 0.999Q0 0.900607 0.0191955 0.804105Q0.038391 0.707602 0.0760443 0.616699Q0.113698 0.525796 0.168362 0.443985Q0.223026 0.362175 0.2926 0.2926Q0.362175 0.223026 0.443985 0.168362Q0.525796 0.113698 0.616699 0.0760443Q0.707602 0.038391 0.804105 0.0191955Q0.900607 0 0.999 0L0.999 0Z" transform="translate(0.6041667 0.6041666)" id="Rectangle-path" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 3.02083L1.8125 0.604167L5.4375 3.625L8.45833 0" transform="translate(16.3125 4.229167)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 1.8125L0 0" transform="translate(23.5625 12.08333)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 2.41667L0 0" transform="translate(21.14583 11.47917)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 3.625L0 0" transform="translate(18.72917 10.27083)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 1.8125L0 0" transform="translate(16.3125 12.08333)" id="Shape" fill="none" stroke="#9B9B9B" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

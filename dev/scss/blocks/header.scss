@@ -1,0 +1,32 @@
+.header{
+  &__nav{
+    display: flex;
+    &Ico{
+      fill: #9b9b9b !important;
+      &_dashboard{
+        width: 29px;
+        height: 26px;
+      }
+      &_sites{
+        width: 26px;
+        height: 29px;
+      }
+      &_reminders{
+        width: 29px;
+        height: 29px;
+      }
+      &_report{
+        width: 29px;
+        height: 28px;
+      }
+      &_agent{
+        width: 29px;
+        height: 29px;
+      }
+      &_settings{
+        width: 29px;
+        height: 25px;
+      }
+    }
+  }
+}

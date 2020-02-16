@@ -1,0 +1,28 @@
+a, button{
+  @include tn();
+  cursor: pointer;
+}
+
+input{
+  &:focus{
+    @include placeholder-color(transparent);
+  }
+  &:-webkit-autofill {
+    background-color: transparent;
+  }
+}
+
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.page{
+  &__list{
+    padding: 40px;
+    li{
+      margin-bottom: 15px;
+    }
+  }
+}
